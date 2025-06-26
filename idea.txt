@@ -1,0 +1,1 @@
+Click on album cover image it pauses it, double click it restarts song, triple click it reshuffle and skips - move mouse next to album cover another album cover will come out ( the next song )
