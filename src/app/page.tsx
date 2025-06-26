@@ -1,5 +1,6 @@
 import MusicCard from './MusicCard';
 import QueueCard from './QueueCard';
+import Qcovers from './Qcovers';
 
 export default function Home() {
   return (
